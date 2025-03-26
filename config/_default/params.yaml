@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} MICCAI-RISE. This work is licensed under IMT'
     license:
       enable: true
       allow_derivatives: false

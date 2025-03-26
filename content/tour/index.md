@@ -42,7 +42,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: https://rise-miccai.github.io/rise-tutorials-website/intro.html
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -50,5 +50,5 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 500
 ---
