@@ -7,3 +7,7 @@
 .cta-group {
   justify-content: center;
 }
+
+.powered-by:not(.copyright-license-text):not(.footer-license-icons) {
+  display: none;
+}

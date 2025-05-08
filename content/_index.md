@@ -46,35 +46,35 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title: title
-      subtitle: 'Sub title'
-      text: Some text
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  #- block: markdown
+  #  content:
+  #    title: title
+  #    subtitle: 'Sub title'
+  #    text: Some text
+  #  design:
+  #    columns: '1'
+  #    background:
+  #      image: 
+  #        filename: coders.jpg
+  #        filters:
+  #          brightness: 1
+  #        parallax: false
+  #        position: center
+  #        size: cover
+  #        text_color_light: true
+  #    spacing:
+  #      padding: ['20px', '0', '20px', '0']
+  #    css_class: fullscreen
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Journal Club
       text: ""
-      count: 5
+      count: 2
       filters:
         folders:
           - publication
-        publication_type: 'article'
+      #  publication_type: 'article'
     design:
       view: citation
       columns: '2'

@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Journal Club
 
 # Listing view
 view: citation
