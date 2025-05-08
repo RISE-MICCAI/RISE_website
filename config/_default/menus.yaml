@@ -4,21 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
-    weight: 10
-  - name: News
-    url: post
-    weight: 20
+ #- name: Tour
+ #  url: tour
+ #  weight: 10
   - name: People
     url: people
-    weight: 30
+    weight: 10
   - name: Events
     url: event
+    weight: 20
+  - name: News
+    url: post
+    weight: 30
+  - name: Summer School
+    url: https://rise-miccai.github.io/Summerschool_website_template/
     weight: 40
-  - name: Journal club
-    url: publication
+  - name: Tutorials
+    url: https://rise-miccai.github.io/rise-tutorials-website/intro.html
     weight: 50
+  - name: Journal Club
+    url: publication
+    weight: 60
   # - name: Contact
   #   url: contact
   #   weight: 60
