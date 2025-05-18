@@ -13,7 +13,7 @@ sections:
       user_groups:
           - RISE Current Board 
           - RISE Past Board
-      sort_by: Params.last_name
+      sort_by: Params.weight
       sort_ascending: true
     design:
       show_interests: false

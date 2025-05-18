@@ -8,23 +8,44 @@ sections:
   - block: hero
     content:
       title: |
-        MICCAI RISE group
-      image:
-        filename: RISE-MICCAI-logo2.jpg
+      #  <h1 style="text-align: center; font-size: 2rem;">MICCAI RISE group</h1>
+      #image:
+      #  filename: RISE-MICCAI-logo2.jpg
       text: |
-        - # Why RISE?
-            - Researchers of under-represented origins (Africa, Latin America, South/South-East Asian, and Middle-East) who work in the field of Medical Image Computing and Computer-Aided 
-            - Interventions (MICCAI) are barely represented in the community (~around 2% participation to MICCAI 2020).
-            - Strengthen the presence of minority researchers from Low-to-Middle Income Countries (LMIC) in MICCAI.
-            - Build collaborative bridges across countries and co-develop international cutting-edge research projects in medicine with a wider global outreach and impact.
+        <div style="text-align: center;">
+          <img src="/media/RISE-MICCAI-logo2_hu72f2ee80ba7d32b6199946b7d38aa6e6_256661_400x0_resize_q75_lanczos.jpg" alt="MICCAI RISE Logo" style="max-width: 300px; width: 100%; display: inline-block;" />
+        </div>
 
-        - # Mission Statement
-            - Propel inclusiveness and geographic diversity within MICCAI,
-            - Strengthen the presence of minority researchers in Low-to-Middle Income Countries (LMICs) at MICCAI,
-            - Empower MICCAI researchers in LMICs,
-            - Pave the way for future research stars to rise in LMICs and under-represented communities, and
-            - Build a strong research network within LMICs as well as across continents and different parties to help reduce global disparities in health and imaging.
+        <h2 style="font-size: 1.6rem; font-weight: bold;">Why RISE?</h2>
+        <ul>
+          <li>Researchers of under-represented origins (Africa, Latin America, South/South-East Asia, and the Middle East) who work in Medical Image Computing and Computer-Aided Interventions (MICCAI) are barely represented in the community (~2% at MICCAI 2020).</li>
+          <li>Strengthen the presence of minority researchers from Low-to-Middle Income Countries (LMIC) in MICCAI.</li>
+          <li>Build collaborative bridges across countries and co-develop international cutting-edge research projects in medicine with global outreach and impact.</li>
+        </ul>
 
+        <h2 style="font-size: 1.6rem; font-weight: bold;">Mission Statement</h2>
+        <ul>
+          <li>Propel inclusiveness and geographic diversity within MICCAI,</li>
+          <li>Strengthen the presence of minority researchers in LMICs,</li>
+          <li>Empower MICCAI researchers in LMICs,</li>
+          <li>Pave the way for future research stars in LMICs and under-represented communities,</li>
+          <li>Build a strong research network across continents to reduce global disparities in health and imaging.</li>
+        </ul>
+
+  - block: people
+    content:
+      title: Meet the RISE Team
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+          - RISE Current Board
+          - RISE Past Board
+      sort_by: Params.weight
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
 
   
   - block: collection
@@ -79,12 +100,12 @@ sections:
       view: citation
       columns: '2'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '2'
+  #- block: markdown
+  #  content:
+  #    title:
+  #    subtitle:
+  #    text: |
+  #      {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+  #  design:
+  #    columns: '2'
 ---

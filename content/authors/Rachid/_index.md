@@ -6,6 +6,7 @@ title: Rachid Zeghlache
 first_name: Rachid
 last_name: Zeghlache
 
+weight: 4
 
 authors:
   - Rachid
@@ -14,7 +15,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Engineer in Medical AI
+role: Tutorial Coordinator/Research Engineer in Medical AI
 
 # Organizations/Affiliations
 organizations:

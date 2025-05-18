@@ -1,6 +1,9 @@
 ---
 title: Welcome to RISE-MICCAI!
 date: 2025-04-21
+
+authors:
+  - Esther
 ---
 
 # Welcome!
@@ -28,7 +31,6 @@ For anything related to the website or digital presence, get in touch with:
 - **Jaeyoung Cho** – [jaeyoung.cho@ukbonn.de](mailto:jaeyoung.cho@ukbonn.de)
 
 ---
-
 We look forward to collaborating with you. Let’s make great things happen together!
 
 

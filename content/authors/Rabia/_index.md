@@ -6,7 +6,7 @@ title: Rabia Haq
 first_name: Rabia
 last_name: Haq
 
-
+weight: 6
 
 authors:
   - Rabia
@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Program Director for AI Strategic Initiatives
+role: Industry Liaison/Program Director for AI Strategic Initiatives
 
 # Organizations/Affiliations
 organizations:

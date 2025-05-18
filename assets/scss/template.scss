@@ -11,3 +11,10 @@
 .powered-by:not(.copyright-license-text):not(.footer-license-icons) {
   display: none;
 }
+
+.hero-lead {
+  max-width: 100% !important;
+  width: 100%;
+  display: block;
+  flex-direction: column;
+}

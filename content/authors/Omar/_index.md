@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alvaro Gonzalez
+title: Omar Choudhry
 
 # Full Name (for SEO)
-first_name: Alvaro
-last_name: Gonzalez
+first_name: Omar
+last_name: Choudhry
 
-weight: 9
+weight: 14
 
 authors:
-  - Alvaro
+  - Omar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Journal Club Coordinator/Professor of Artificial Intelligence
+role: Mentorship & Workshop Coordinator/Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alvaro Gonzalez
+title: Pooja Jain
 
 # Full Name (for SEO)
-first_name: Alvaro
-last_name: Gonzalez
+first_name: Pooja
+last_name: Jain
 
-weight: 9
+weight: 15
 
 authors:
   - Alvaro
@@ -15,7 +15,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Journal Club Coordinator/Professor of Artificial Intelligence
+role: Website Coordinator/Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -76,7 +76,3 @@ highlight_name: false
 user_groups:
   - RISE Current Board
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

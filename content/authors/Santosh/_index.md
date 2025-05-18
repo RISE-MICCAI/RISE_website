@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alvaro Gonzalez
+title: Santosh Parampottupadam
 
 # Full Name (for SEO)
-first_name: Alvaro
-last_name: Gonzalez
+first_name: Santosh
+last_name: Parampottupadam
 
-weight: 9
+weight: 11
 
 authors:
-  - Alvaro
+  - Santosh
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Journal Club Coordinator/Professor of Artificial Intelligence
+role: Storytelling Coordinator/Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

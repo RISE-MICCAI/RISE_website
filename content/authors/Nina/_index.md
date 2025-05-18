@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Alvaro Gonzalez
+title: Nina Weng
 
 # Full Name (for SEO)
-first_name: Alvaro
-last_name: Gonzalez
+first_name: Nina
+last_name: Weng
 
-weight: 9
+weight: 10
 
 authors:
-  - Alvaro
+  - Nina
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Journal Club Coordinator/Professor of Artificial Intelligence
+role: Storytelling Coordinator/Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

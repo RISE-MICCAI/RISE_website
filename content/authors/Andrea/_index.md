@@ -6,11 +6,12 @@ title: Andrea Lara
 first_name: Andrea
 last_name: Lara
 
+weight: 3
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Public Outreach/Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +71,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - RISE Current Board
-  - RISE Past Board
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

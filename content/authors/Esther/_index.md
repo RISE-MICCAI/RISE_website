@@ -6,6 +6,7 @@ title: Esther Puyol
 first_name: Esther
 last_name: Puyol
 
+weight: 1
 authors:
   - Esther
 
@@ -14,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Research Scientist 
+role: President/Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -73,9 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - RISE Past Board
   - RISE Current Board
-
 --- 
 
 

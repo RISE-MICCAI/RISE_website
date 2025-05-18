@@ -6,17 +6,15 @@ title: Tareen Dawood
 first_name: Tareen
 last_name: Dawood
 
-
-
+weight: 2
 authors:
   - Tareen
-
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Program Director for AI Strategic Initiatives
+role: President Assistant/Program Director for AI Strategic Initiatives
 
 # Organizations/Affiliations
 organizations:

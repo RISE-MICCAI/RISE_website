@@ -6,6 +6,7 @@ title: Pulkit Khandelwal
 first_name: Pulkit
 last_name: Khandelwal
 
+weight: 8
 
 authors:
   - Pulkit
@@ -15,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral fellow at University of Pennsylvania
+role: Journal Club Coordinator/Postdoctoral fellow at University of Pennsylvania
 
 # Organizations/Affiliations
 organizations:
