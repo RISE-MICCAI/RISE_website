@@ -19,8 +19,6 @@ main:
   - name: Summer School
     url: https://rise-miccai.github.io/Summerschool_website_template/
     weight: 40
-    params:
-      target: _self
   - name: Tutorials
     url: https://rise-miccai.github.io/rise-tutorials-website/intro.html
     weight: 50
