@@ -13,7 +13,7 @@ sections:
       #  filename: RISE-MICCAI-logo2.jpg
       text: |
         <div style="text-align: center;">
-          <img src="/media/RISE-MICCAI-logo2_hu72f2ee80ba7d32b6199946b7d38aa6e6_256661_400x0_resize_q75_lanczos.jpg" alt="MICCAI RISE Logo" style="max-width: 300px; width: 100%; display: inline-block;" />
+          <img src="/images/RISE-MICCAI-logo2.jpg" alt="MICCAI RISE Logo" style="max-width: 300px; width: 100%; display: inline-block;" />
         </div>
 
         <h2 style="font-size: 1.6rem; font-weight: bold;">Why RISE?</h2>
