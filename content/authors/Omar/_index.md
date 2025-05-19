@@ -15,7 +15,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Mentorship & Workshop Coordinator/Professor of Artificial Intelligence
+role: Mentorship & Workshop Coordinator/PhD Candidate
 
 # Organizations/Affiliations
 organizations:
