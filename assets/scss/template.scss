@@ -20,7 +20,13 @@
 }
 
 .col-lg-12 .article-style {
-  text-align: right;
+  // Align Youtube logo to the right in JC
+ text-align: right;
+}
+
+.col-lg-12 .media-body .article-style {
+  // Only apply to Youtube logo
+  all: unset;
 }
 
 .article-style img {
