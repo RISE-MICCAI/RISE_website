@@ -6,7 +6,7 @@ title: David Duenas Gaviria
 first_name: David
 last_name: Gaviria
 
-weight: 5
+weight: 9
 
 authors:
   - David
@@ -15,32 +15,28 @@ authors:
 superuser: false
 
 # Role/position
-role: Summer/Winter Coordinator/Professor of Artificial Intelligence
-
+role: Summer/Winter Coordinator/PhD Candidate
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Universitätsklinikum Bonn, Klinik für Diagnostische und Interventionelle Radiologie
+    url: 'https://www.ukbonn.de/radiologie/unser-team/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning for Medical Imaging
+  - Federated Learning
+  - Computer Vision
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M. in Artificial Intelligence
+      institution: Universitat Politècnica de Catalunya, Universitat de Barcelona and Universitat Rovira i Virgili, Faculty of Informatics, Barcelona
+      year: 2022
+    - course: B.Eng. in Multimedia Engineering
+      institution: Universidad Autónoma de Occidente, Faculty of Engineering, Colombia
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -77,6 +73,4 @@ user_groups:
   - RISE Current Board
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+David is currently pursuing his PhD at the University Hospital Bonn, under the guidance of Prof. Dr. Shadi Albarqouni. With a background in engineering and informatics, he completed his interuniversity master’s degree in AI in 2022 from the Facultat d’Informàtica de Barcelona (FIB), which is a joint program of Universitat Politècnica de Catalunya, Universitat de Barcelona, and Universitat Rovira i Virgili His goal is to leverage his skills and knowledge to make valuable contributions to the field of AI in medicine at the Albarqouni Lab.

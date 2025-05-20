@@ -6,7 +6,7 @@ title: Pulkit Khandelwal
 first_name: Pulkit
 last_name: Khandelwal
 
-weight: 8
+weight: 7
 
 authors:
   - Pulkit

@@ -6,7 +6,7 @@ title: Alvaro Gonzalez
 first_name: Alvaro
 last_name: Gonzalez
 
-weight: 9
+weight: 8
 
 authors:
   - Alvaro

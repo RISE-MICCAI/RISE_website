@@ -6,7 +6,7 @@ title: Dewinda J. Rumala
 first_name: Dewinda
 last_name: Rumala
 
-weight: 12
+weight: 15
 
 authors:
   - Dewinda
@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Storytelling Coordinator/Professor of Artificial Intelligence
+role: Website Coordinator/Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:

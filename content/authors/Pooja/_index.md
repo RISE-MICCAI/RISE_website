@@ -6,7 +6,7 @@ title: Pooja Jain
 first_name: Pooja
 last_name: Jain
 
-weight: 15
+weight: 13
 
 authors:
   - Alvaro
@@ -15,32 +15,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Website Coordinator/Professor of Artificial Intelligence
+role: Storytelling Coordinator/Physician Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Indian Institute of Technology Kharagpur
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence in Healthcare
+  - Surgical Data Science
+  - Frugal Innovation
+  - Accessible Medical Technology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Masters in Medical Science & Technology (MMST)
+      institution: Indian Institute of Technology Kharagpur
+      year: 2025
+    - course: Bachelor of Medicine, Bachelor of Surgery (MBBS)
+      institution: Bangalore Medical College & Research Institute
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -76,3 +73,4 @@ highlight_name: false
 user_groups:
   - RISE Current Board
 ---
+Pooja P Jain is a physician-scientist with a background in clinical medicine and interdisciplinary research at the intersection of healthcare and technology. Currently pursuing her Master’s in Medical Science and Technology at IIT Kharagpur, she explores AI-driven solutions in medical imaging, surgical intelligence, and personalized healthcare. Her work spans colorectal surgery workflow modeling, AR-based surgical safety tools, and AI-assisted oocyte retrieval. She aspires to bring together her clinical insight and engineering training to design tools that enhance safety, precision, and accessibility in medicine.

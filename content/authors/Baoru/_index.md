@@ -6,7 +6,7 @@ title: Baoru Huang
 first_name: Baoru
 last_name: Huang
 
-weight: 13
+weight: 10
 
 authors:
   - Baoru
@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: School Coordinator/Professor of Artificial Intelligence
+role: Summer/Winter Coordinator/Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
