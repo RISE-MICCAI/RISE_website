@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alvaro Gonzalez
+title: Alvaro Gonzalez-Jimenez
 
 # Full Name (for SEO)
 first_name: Alvaro
-last_name: Gonzalez
+last_name: Gonzalez-Jimenez
 
 weight: 8
 
@@ -15,32 +15,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Journal Club Coordinator/Professor of Artificial Intelligence
+role: Journal Club Coordinator/Postdoctoral Researcher 
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: University Hospital of Basel
+    url: 'https://usb.ch'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Alvaro Gonzalez-Jimenez is a postdoctoral researcher at the University Hospital of Basel, specializing in representation learning from noisy and limited data.
+  
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robustness
+  - Hyperbolic Learning
+  - Deep Learning 
 
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of Basel 
+      year: 2025
+    - course: MSc in Computer Science
+      institution: Grenoble INP 
+      year: 2020
+    - course: BSc in Computer Science (Erasmus)
+      institution: Budapest University of Technology and Economics 
+      year: 2015
+    - course: BSc in Computer Science
+      institution: University of Sevilla
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,16 +52,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:alvaro.gonzalezjimenez@unibas.ch'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=LbtKzVgAAAAJ&hl=de
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/alvarogonjim
+  - icon: globe 
+    icon_pack: fas
+    link: https://alvarogonjim.github.io
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,6 +81,12 @@ user_groups:
   - RISE Current Board
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alvaro Gonzalez-Jimenez is a Postdoctoral researcher at the University Hospital
+of Basel and the Lucerne University of Applied Sciences and Arts, focusing on
+machine learning for dermatology, particularly in learning from limited and
+noisy data. His research explores geometric representations to reduce bias and
+enhance model robustness. Alvaro has previously worked at INRIA and NAVER LABS
+Europe, received the Best Paper Award at MICCAI 2023, and regularly publishes
+at top medical imaging (e.g., MICCAI) and top machine learning conferences
+(e.g., NeurIPS, CVPR, ECCV). He aims to create AI solutions that benefit
+diverse healthcare settings.
