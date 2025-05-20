@@ -22,38 +22,43 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rabia Haq, Ph.D., is the Program Director for AI Strategic Initiatives at 3DR Labs, where she leads the development and implementation of AI-driven innovations to enhance medical imaging workflows. With over 15 years of experience in AI and machine learning, she has worked across cancer research, drug discovery, and clinical integration. Her expertise includes computer vision, medical image segmentation, oncology AI, and healthcare equity.
+bio: Tareen Dawood is a postdoctoral researcher at DTU in Copenhagen, with a background in Electrical and Biomedical Engineering, having transitioned into academia to pursue a more purposeful and impactful career. Her research focuses on leveraging artificial intelligence and medical imaging to improve diagnostic pathways and clinical decision-making while ensuring they are fair and trustworthy. She is deeply committed to empowering those with limited opportunities, striving to inspire and support individuals to overcome barriers and pursue impactful careers in the medical imaging field.
 
 interests:
-  - Computer Vision
-  - Medical Image Segmentation
-  - Computer Aided Diagnosis
-  - Oncology AI
-  - Deep Learning
-  - Healthcare Equity
+  - Artificial Intelligence
+  - Fair and Ethical AI
+  - Social Upliftment
+  - Cyling
+  - Violin
+  - Astronomy
 
 education:
   courses:
-    - course: Ph.D. in Biomedical Engineering
-      institution: Old Dominion University
-      year: 
-    - course: M.S. in Computer Science
-      institution: Old Dominion University
-      year: 
-    - course: B.S. in Computer Science
-      institution: Old Dominion University
-      year: 
+    - course: PhD in Biomedical Engineering
+      institution: Kings College London
+      year: 2024
+    - course: MEng in Biomedical Engineering
+      institution: University of Cape Town
+      year: 2021
 
 # Social/Academic Networking
 social:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=kltmQFgAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/rabiahaq
-
+    link: 'https://www.linkedin.com/in/tareen-dawood-76a4043b'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=MefHCSUAAAAJ&hl=en&oi=ao'
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
 # Highlight the author in author lists? (true/false)
+
+email: 'tareend@gmail.com'
+
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
@@ -61,4 +66,5 @@ user_groups:
   - RISE Current Board
 ---
 
-Rabia Haq, Ph.D., is the Program Director for AI Strategic Initiatives at 3DR Labs, USA, leading transformative AI innovations in medical imaging to streamline clinical workflows and improve patient outcomes. With more than 15 years of experience, she has contributed extensively to AI research and development in cancer research, drug discovery, and diagnostic imaging. Her research focuses on deep learning, medical image segmentation, computer-aided diagnosis, and oncology AI, with a strong commitment to healthcare equity. She holds a Ph.D. in Biomedical Engineering and both M.S. and B.S. degrees in Computer Science from Old Dominion University. In addition to her research, Rabia is passionate about mentoring early career researchers and advancing the role of AI in healthcare through collaborative innovation.
+Tareen Dawood is a postdoctoral researcher at DTU in Copenhagen, with a background in Electrical and Biomedical Engineering, having transitioned into academia to pursue a more purposeful and impactful career. Her research focuses on leveraging artificial intelligence and medical imaging to improve diagnostic pathways and clinical decision-making while ensuring they are fair and trustworthy. She is deeply committed to empowering those with limited opportunities, striving to inspire and support individuals to overcome barriers and pursue impactful careers in the medical imaging field.
+
