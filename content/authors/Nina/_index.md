@@ -26,6 +26,7 @@ organizations:
 bio: Nina is a third-year PhD student at the Technical University of Denmark. Her main research interests are algorithmic fairness and explainability in AI tools for medical imaging.
 
 
+
 interests:
   - algorithmic fairness
   - explainability
