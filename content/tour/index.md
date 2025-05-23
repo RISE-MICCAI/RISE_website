@@ -42,7 +42,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: https://rise-miccai.github.io/rise-tutorials-website/intro.html
+          url: https://tutorial.rise-miccai.org/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

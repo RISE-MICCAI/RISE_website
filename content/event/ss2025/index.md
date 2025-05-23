@@ -2,7 +2,7 @@
 title: MICCAI Summer School 2025
 
 event: Online
-event_url: https://rise-miccai.github.io/Summerschool_website_template/
+event_url: https://summer.rise-miccai.org/
 
 location: Online
 
