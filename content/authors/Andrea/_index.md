@@ -11,7 +11,7 @@ weight: 3
 superuser: false
 
 # Role/position
-role: Public Outreach/Professor of Artificial Intelligence
+role: Public Outreach/Research Scientist in Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
