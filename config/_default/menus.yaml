@@ -17,16 +17,19 @@ main:
     url: post
     weight: 30
   - name: Summer School
-    url: https://rise-miccai.github.io/Summerschool_website_template/
+    url: https://summer.rise-miccai.org/
     weight: 40
   - name: Tutorials
-    url: https://rise-miccai.github.io/rise-tutorials-website/intro.html
+    url: https://tutorial.rise-miccai.org/
     weight: 50
     params:
       target: _self
   - name: Journal Club
     url: publication
     weight: 60
+  - name: Join Us
+    url: https://docs.google.com/forms/d/1dJ49gVMLOzO2Ueldms06vJJbJCWa4PQw_OZeXgK5OHE/viewform?ts=61039fec&edit_requested=true
+    weight: 70
   # - name: Contact
   #   url: contact
   #   weight: 60
