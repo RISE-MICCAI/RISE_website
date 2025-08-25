@@ -32,15 +32,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Surgical Skill Improvements Using AI in Low-Resource Settings
+    - course: PhD in AI-Driven Surgical Skill Training in Resource-Constrained Environments
       institution: University of Leeds
       year: 2024-
     - course: MSc Artificial Intelligence for Medical Diagnosis and Care
       institution: University of Leeds
-      year: 2024-
+      year: 2023-2025
     - course: BSc Computer Science with Artificial Intelligence
       institution: University of Leeds
-      year: 2023
+      year: 2020-2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -58,9 +58,9 @@ social:
     link: https://github.com/omariosc
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/Omar_CV.pdf
+  # - icon: cv
+  #  icon_pack: ai
+  #  link: files/Omar_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -76,4 +76,4 @@ user_groups:
 
 Omar Choudhry is a PhD candidate on the UKRI Centre for Doctoral Training (CDT) AI-Medical (Artificial Intelligence for Medical Diagnosis and Care) programme and recipient of the ESPRC Studentship Award at the University of Leeds. His research focuses on harnessing AI, specifically deep learning and medical image analysis, to derive insights into enhancing surgical skill assessment and surgical training, particularly in low-resource settings.
 
-He has had industry experience with the United Nations International Computing Centre (UNICC), Discover Financial Services and Chelsea and Westminster Hospital NHS Foundation Trust. He is a part-time lead full-stack developer and AI engineer for an AI Edutech startup. He also has teaching, tutoring and volunteering experience in schools and other organisations, including King Saud University in the Kingdom of Saudi Arabia and Mawhiba.
+Beyond academia, Omar has held senior roles including Chief AI Scientist and Lead Full Stack Developer at an AI Edutech startup. His professional experience includes work with the United Nations International Computing Centre (UNICC), Discover Financial Services, and Chelsea and Westminster Hospital NHS Foundation Trust. He is also a Director of OC Solutions Ltd, a company providing bespoke information technology, software solutions, and consultancy services across multiple domains. In addition, Omar has extensive teaching, tutoring, and volunteering experience in schools and organisations internationally, including King Saud University in the Kingdom of Saudi Arabia through the prestigious Mawhiba programme, which admits only the most exceptional students in the Middle East.
