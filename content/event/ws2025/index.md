@@ -1,8 +1,8 @@
 ---
-title: MICCAI Summer School 2025
+title: MBZUAI Winter School 2025
 
 event: Online
-event_url: https://summer.rise-miccai.org/
+event_url: https://ai-nexus.mbzuai.ac.ae/?panel=MICCAI-Winter-School
 
 location: Online
 
@@ -12,12 +12,12 @@ abstract: 'TBD'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-14T14:00:00Z'
-date_end: '2025-07-18T19:00:00Z'
+date: '2025-11-18T09:00:00Z'
+date_end: '2025-11-19T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-05-08T00:00:00Z'
+publishDate: '2025-11-05T00:00:00Z'
 
 authors: []
 tags: []
