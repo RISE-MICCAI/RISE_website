@@ -6,9 +6,9 @@ event_url: https://ai-nexus.mbzuai.ac.ae/?panel=MICCAI-Winter-School
 
 location: Online
 
+summary: 'Winter School: MBZUAI – Medical Vision in Healthcare – Towards MICCAI 2026'
 
-summary: Awesome event
-abstract: 'TBD'
+abstract: The MBZUAI Winter School is part of the wider MICCAI 2026 initiatives, which will bring the global medical imaging community to Abu Dhabi. This program aims to increase research outcomes from the MENA region by creating opportunities for young researchers to learn from international experts and collaborate with peers. By welcoming students from low- and middle-income countries, the school supports capacity building and strengthens the region’s contribution to the global research landscape.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,7 +19,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-11-05T00:00:00Z'
 
-authors: []
+authors: [Joey]
 tags: []
 
 # Is this a featured talk? (true/false)
