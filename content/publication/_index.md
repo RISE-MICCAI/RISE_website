@@ -18,3 +18,7 @@ banner:
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" />
   <span>View on GitHub</span>
 </a>
+
+<div style="margin-top: 20px;">
+  <img src="Awasthi-151125/featured.png" alt="Journal Club" style="max-width: 100%; height: auto;" />
+</div>

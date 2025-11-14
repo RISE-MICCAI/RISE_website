@@ -30,6 +30,11 @@ main:
   - name: Join Us
     url: https://docs.google.com/forms/d/1dJ49gVMLOzO2Ueldms06vJJbJCWa4PQw_OZeXgK5OHE/viewform?ts=61039fec&edit_requested=true
     weight: 70
+  - name: '<i class="fab fa-slack" title="Slack"></i>'
+    url: https://join.slack.com/t/rise-wzd5338/shared_invite/zt-3iikw3aad-Nxxown6YO_SIUq4jJxvg5g
+    weight: 71
+    params:
+      target: _blank
   # - name: Contact
   #   url: contact
   #   weight: 60
