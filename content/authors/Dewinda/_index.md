@@ -15,11 +15,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Website Coordinator/Professor of Artificial Intelligence
+role: Website Coordinator/AI Research Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: UNIVERSA AI
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
