@@ -11,7 +11,7 @@ weight: 6
 superuser: False
 
 # Role/position
-role: Industry Liaison/Senior Research Engineer, ML for global health applications
+role: Senior Research Engineer, ML team
 
 # Organizations/Affiliations
 organizations:
@@ -30,28 +30,24 @@ bio: His work focuses on understanding the requirements of the clinical use-case
 
 education:
   courses:
-    - course: PhD in Biomedical Engineering
-      institution: King's College London
+    - course: Post-doc, Machine Learning
+      institution: University of Washington Applied Math Department
       year: 2018
-    - course: MRes in Medical Imaging Sciences
-      institution: IMT Atlantique Bretagne Pays de la Loire
-      year: 2014
-    - course: MSc in in Image Processing
-      institution: IMT Atlantique Bretagne Pays de la Loire
-      year: 2014
-    - course: BEng & MEng in Biomedical Engineering
-      institution: IMT Atlantique Bretagne Pays de la Loire
-      year: 2014
-    - course: BEng & MEng in Telecommunications Engineering
-      institution: Polytechnic University of Catalonia
-      year: 2014
+    - course: PhD, Electrical Engineering, Applied Math
+      institution: University of Washington College of Engineering
+      year: 2017
+
+    - course: Bachelor's Degree, Mathematics
+      institution: Massachusetts Institute of Technology
+      year: ""
 
 
 jobs:
   courses:
-   - course : PhD in Biomedical Engineering
-   - institution : King's College London
-   - year: 2018
+   - course: Senior Research Engineer, ML team
+     institution: Global Health Labs
+     year: "2012 - Present"
+     description: "I work on all aspects of machine learning (image processing, data wrangling, data analysis, algorithms) to address global health problems in low resource settings. My focus is on closely tailoring ML solutions to serve the particular use case. Projects include pregnancy risk stratification, diagnosis of Neglected Tropical Diseases (Loa loa, S. haematobium), malaria diagnosis, lung ultrasound, grain moisture prediction, and detection of vitamin A deficiency via pupillary response."
 
 
 
