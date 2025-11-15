@@ -2,7 +2,7 @@
 title: "Superficial white matter bundle atlas based on hierarchical fiber clustering over probabilistic tractography data"
 authors:
 - Pamela Guevara
-date: "2022-01-01T00:00:00Z"
+date: "2024-05-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Guevara
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +27,8 @@ tags: []
 featured: false
 
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S1053811922006656"
+
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

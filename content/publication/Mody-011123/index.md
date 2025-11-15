@@ -18,7 +18,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Prerak Mody and Mortiz Fuchs
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -27,6 +28,8 @@ tags: []
 featured: false
 
 url_pdf: "https://doi.org/10.1148/radiol.230275"
+
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

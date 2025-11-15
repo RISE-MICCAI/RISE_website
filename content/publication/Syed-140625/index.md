@@ -2,7 +2,7 @@
 title: "Cellular geometry of the heart"
 authors:
 - Tabish Syed
-date: "2023-01-01T00:00:00Z"
+date: "2025-06-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Syed
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +27,8 @@ tags: []
 featured: false
 
 url_pdf: "https://www.embopress.org/doi/full/10.15252/embj.2022113288"
+
+url_video: "https://www.youtube.com/watch?v=qBcwK5v2JYA"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

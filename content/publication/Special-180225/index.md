@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Special Session
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +27,8 @@ tags: []
 featured: false
 
 url_pdf: ""
+
+url_video: "https://www.youtube.com/watch?v=8sD5F7zaLCY"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

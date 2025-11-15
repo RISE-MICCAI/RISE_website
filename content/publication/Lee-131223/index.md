@@ -8,7 +8,7 @@ authors:
 - Miaojing Shi
 - Andrew P. King
 
-date: "2023-08-25T00:00:00Z"
+date: "2023-12-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: "In medical imaging, artificial intelligence (AI) is increasingly being used to automate routine tasks. However, these algorithms can exhibit and exacerbate biases which lead to disparate performances between protected groups. We investigate the impact of model choice on how imbalances in subject sex and race in training datasets affect AI-based cine cardiac magnetic resonance image segmentation. We evaluate three convolutional neural network-based models and one vision transformer model. We find significant sex bias in three of the four models and racial bias in all of the models. However, the severity and nature of the bias varies between the models, highlighting the importance of model choice when attempting to train fair AI-based segmentation models for medical imaging tasks."
+abstract: |
+  **Speaker:** Tiarna Lee
+
+  In medical imaging, artificial intelligence (AI) is increasingly being used to automate routine tasks. However, these algorithms can exhibit and exacerbate biases which lead to disparate performances between protected groups. We investigate the impact of model choice on how imbalances in subject sex and race in training datasets affect AI-based cine cardiac magnetic resonance image segmentation. We evaluate three convolutional neural network-based models and one vision transformer model. We find significant sex bias in three of the four models and racial bias in all of the models. However, the severity and nature of the bias varies between the models, highlighting the importance of model choice when attempting to train fair AI-based segmentation models for medical imaging tasks.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -32,6 +35,8 @@ tags: []
 featured: false
 
 url_pdf: "https://arxiv.org/pdf/2308.13415"
+
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

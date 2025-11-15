@@ -2,7 +2,7 @@
 title: "A Tutorial on Principal Component Analysis"
 authors:
 - Jonathon Shlens
-date: "2014-04-03T00:00:00Z"
+date: "2023-04-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: "Principal component analysis (PCA) is a mainstay of modern data analysis - a black box that is widely used but (sometimes) poorly understood. The goal of this paper is to dispel the magic behind this black box. This manuscript focuses on building a solid intuition for how and why principal component analysis works. This manuscript crystallizes this knowledge by deriving from simple intuitions, the mathematics behind PCA. This tutorial does not shy away from explaining the ideas informally, nor does it shy away from the mathematics. The hope is that by addressing both aspects, readers of all levels will be able to gain a better understanding of PCA as well as the when, the how and the why of applying this technique."
+abstract: |
+  **Speaker:** Charles Delahunt
+
+  Principal component analysis (PCA) is a mainstay of modern data analysis - a black box that is widely used but (sometimes) poorly understood. The goal of this paper is to dispel the magic behind this black box. This manuscript focuses on building a solid intuition for how and why principal component analysis works. This manuscript crystallizes this knowledge by deriving from simple intuitions, the mathematics behind PCA. This tutorial does not shy away from explaining the ideas informally, nor does it shy away from the mathematics. The hope is that by addressing both aspects, readers of all levels will be able to gain a better understanding of PCA as well as the when, the how and the why of applying this technique.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +29,8 @@ tags: []
 featured: false
 
 url_pdf: "https://arxiv.org/pdf/1404.1100"
+
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

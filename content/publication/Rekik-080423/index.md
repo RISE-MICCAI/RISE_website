@@ -2,7 +2,7 @@
 title: "A dirty dozen: 12 p-value misconceptions"
 authors:
 - Steven Goodman
-date: "2008-01-01T00:00:00Z"
+date: "2023-04-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Charles and Islem
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +27,8 @@ tags: []
 featured: false
 
 url_pdf: "https://linkinghub.elsevier.com/retrieve/pii/S0037-1963(08)00062-0"
+
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

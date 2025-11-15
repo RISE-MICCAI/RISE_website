@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Prosper Oyibo
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +27,8 @@ tags: []
 featured: false
 
 url_pdf: "https://doi.org/10.1117/1.JMI.10.4.044005"
+
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

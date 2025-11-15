@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Ghosh
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +27,8 @@ tags: []
 featured: false
 
 url_pdf: "https://escholarship.mcgill.ca/downloads/vh53x2589"
+
+url_video: "https://www.youtube.com/watch?v=m9gRr4SQerg"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

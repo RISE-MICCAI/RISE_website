@@ -2,7 +2,7 @@
 title: "Deciphering Epigenetic Signatures of Aging and Neurodegeneration in Alzheimer's Disease with Machine Learning"
 authors:
 - Lasya Sreepada
-date: "2001-01-01T00:00:00Z"
+date: "2025-10-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Lasya Sreepada
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +27,8 @@ tags: []
 featured: false
 
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0197458025000995"
+
+url_video: "https://www.youtube.com/watch?v=Zp3zhsIYG2A"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

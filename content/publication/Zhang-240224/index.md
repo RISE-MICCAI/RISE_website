@@ -2,7 +2,7 @@
 title: "Toward Replacing Late Gadolinium Enhancement With Artificial Intelligence Virtual Native Enhancement for Gadolinium-Free Cardiovascular Magnetic Resonance Tissue Characterization in Hypertrophic Cardiomyopathy and Artificial intelligence for contrast-free MRI: Scar assessment in myocardial infarction using deep learning–based virtual native enhancement"
 authors:
 - Qiang Zhang
-date: "2023-01-01T00:00:00Z"
+date: "2024-02-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Speaker:** Qiang Zhang
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -26,6 +27,8 @@ tags: []
 featured: false
 
 url_pdf: "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.060137"
+
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
