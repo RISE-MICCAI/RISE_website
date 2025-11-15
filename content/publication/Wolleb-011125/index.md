@@ -1,31 +1,30 @@
 ---
-title: "MedFuncta: A Unified Framework for Learning Efficient Medical Neural Fields"
+title: "VidFuncta: Towards Generalizable Neural Representations for Ultrasound Videos"
 authors:
-- Paul Friedrich
-- Florentin Bieder
-- Julian McGinnis
 - Julia Wolleb
-- Daniel Rueckert
-- Philippe C. Cattin
+- Florentin Bieder
+- Paul Friedrich
+- Hemant D. Tagare
+- Xenophon Papademetris
 date: "2025-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-20T00:00:00Z"
+publishDate: "2025-07-29T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "MICCAI 2025"
 publication_short: ""
 
 abstract: |
   **Speaker:** Julia Wolleb
 
-  Research in medical imaging primarily focuses on discrete data representations that poorly scale with grid resolution and fail to capture the often continuous nature of the underlying signal. Neural Fields (NFs) offer a powerful alternative by modeling data as continuous functions. While single-instance NFs have successfully been applied in medical contexts, extending them to large-scale medical datasets remains an open challenge. We therefore introduce MedFuncta, a unified framework for large-scale NF training on diverse medical signals. Building on Functa, our approach encodes data into a unified representation, namely a 1D latent vector, that modulates a shared, meta-learned NF, enabling generalization across a dataset. We revisit common design choices, introducing a non-constant frequency parameter ω in widely used SIREN activations, and establish a connection between this ω-schedule and layer-wise learning rates, relating our findings to recent work in theoretical learning dynamics. We additionally introduce a scalable meta-learning strategy for shared network learning that employs sparse supervision during training, thereby reducing memory consumption and computational overhead while maintaining competitive performance. Finally, we evaluate MedFuncta across a diverse range of medical datasets and show how to solve relevant downstream tasks on our neural data representation. To promote further research in this direction, we release our code, model weights and the first large-scale dataset - MedNF - containing > 500 k latent vectors for multi-instance medical NFs.
+  Ultrasound is widely used in clinical care, yet standard deep learning methods often struggle with full video analysis due to non-standardized acquisition and operator bias. We offer a new perspective on ultrasound video analysis through implicit neural representations (INRs). We build on Functa, an INR framework in which each image is represented by a modulation vector that conditions a shared neural network. However, its extension to the temporal domain of medical videos remains unexplored. To address this gap, we propose VidFuncta, a novel framework that leverages Functa to encode variable-length ultrasound videos into compact, time-resolved representations. VidFuncta disentangles each video into a static video-specific vector and a sequence of time-dependent modulation vectors, capturing both temporal dynamics and dataset-level redundancies. Our method outperforms 2D and 3D baselines on video reconstruction and enables downstream tasks to directly operate on the learned 1D modulation vectors. We validate VidFuncta on three public ultrasound video datasets -- cardiac, lung, and breast -- and evaluate its downstream performance on ejection fraction prediction, B-line detection, and breast lesion classification. These results highlight the potential of VidFuncta as a generalizable and efficient representation framework for ultrasound videos. Our code is publicly available.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -33,7 +32,7 @@ summary: ""
 tags: []
 featured: false
 
-url_pdf: "https://arxiv.org/pdf/2502.14401"
+url_pdf: "https://arxiv.org/pdf/2507.21863"
 
 url_video: "https://www.youtube.com/watch?v=dNhdeJoVFto"
 
