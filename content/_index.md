@@ -108,4 +108,11 @@ sections:
   #      {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
   #  design:
   #    columns: '2'
+
+  - block: markdown
+    content:
+      text: |
+        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1jqmpZjs6GA67LNyyDnP3KRXgVoM0XaMtOGZF3NKH1g&cl=ffffff&w=a"></script>
+    design:
+      columns: '1'
 ---
