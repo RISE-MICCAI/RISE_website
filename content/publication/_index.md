@@ -20,5 +20,5 @@ banner:
 </a>
 
 <div style="margin-top: 20px;">
-  <img src="/publication/awasthi-151125/featured.png" alt="Journal Club" style="max-width: 100%; height: auto;" />
+  <img src="/publication/bassi-061225/featured.png" alt="Journal Club" style="max-width: 100%; height: auto;" />
 </div>
