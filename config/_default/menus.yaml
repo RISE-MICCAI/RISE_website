@@ -35,6 +35,11 @@ main:
     weight: 71
     params:
       target: _blank
+  - name: '<i class="fab fa-linkedin" title="LinkedIn"></i>'
+    url: https://www.linkedin.com/showcase/rise-miccai
+    weight: 72
+    params:
+      target: _blank
   # - name: Contact
   #   url: contact
   #   weight: 60
