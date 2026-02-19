@@ -20,5 +20,5 @@ banner:
 </a>
 
 <div style="margin-top: 20px;">
-  <img src="/publication/vyas-240126/featured.png" alt="Journal Club" style="max-width: 100%; height: auto;" />
+  <img src="/publication/crimi-210226/featured.png" alt="Journal Club" style="max-width: 100%; height: auto;" />
 </div>
