@@ -6,7 +6,7 @@ title: Dewinda J. Rumala
 first_name: Dewinda
 last_name: Rumala
 
-weight: 15
+weight: 16
 
 authors:
   - Dewinda

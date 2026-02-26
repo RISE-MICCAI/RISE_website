@@ -6,7 +6,7 @@ title: Jaeyoung Cho
 first_name: Jaeyoung
 last_name: Cho
 
-weight: 16
+weight: 17
 # Username (this should match the folder name)
 authors:
   - Joey
