@@ -42,7 +42,7 @@ header:
     highlight_active_link: false
     # MICCAI Society link (left of site title). Set logo to e.g. "/images/miccai-society-logo.png" or leave empty for text.
     miccai_url: "https://miccai.org"
-    miccai_logo: "/images/miccai-society-logo.png"
+    miccai_logo: "/images/MICCAI-Logo-Horiz_Light.svg"
 
 # Site footer
 
