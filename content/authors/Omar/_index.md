@@ -6,7 +6,7 @@ title: Omar Choudhry
 first_name: Omar
 last_name: Choudhry
 
-weight: 14
+weight: 15
 
 authors:
   - Omar
