@@ -16,8 +16,10 @@ main:
   - name: News
     url: post
     weight: 30
-  - name: MBZUAI Winter School
-    url: https://ai-nexus.mbzuai.ac.ae/?panel=MICCAI-Winter-School
+  - name: MICCAI Workshop
+    url: https://mirasol.rise-miccai.org/
+  # - name: MBZUAI Winter School
+    # url: https://ai-nexus.mbzuai.ac.ae/?panel=MICCAI-Winter-School
     weight: 40
   - name: Tutorials
     url: https://tutorial.rise-miccai.org/
