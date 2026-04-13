@@ -6,7 +6,7 @@ title: Charles Delahunt
 first_name: Charles
 last_name: Delahunt
 
-weight: 6
+weight: 7
 # Is this the primary user of the site?
 superuser: False
 

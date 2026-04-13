@@ -6,7 +6,7 @@ title: David Duenas Gaviria
 first_name: David
 last_name: Gaviria
 
-weight: 9
+weight: 10
 
 authors:
   - David

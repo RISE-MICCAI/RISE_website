@@ -6,6 +6,8 @@ title: Miguel López-Pérez
 first_name: Miguel
 last_name: López-Pérez
 
+weight: 5
+
 # Username (this should match the folder name)
 authors:
   - Miguel

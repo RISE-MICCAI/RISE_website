@@ -6,7 +6,7 @@ title: Nina Weng
 first_name: Nina
 last_name: Weng
 
-weight: 11
+weight: 12
 
 authors:
   - Nina
