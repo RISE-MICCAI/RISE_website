@@ -64,7 +64,7 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - RISE Board
+  - RISE Current Board
 ---
 
 Miguel López-Pérez is a Lecturer at the University of Granada in the Dept. of Computer Science and AI, focusing on probabilistic models and digital pathology. His interests lie in the intersection of methodological AI and its application to the medical imaging domain. His research covers uncertainty quantification, fairness, and generalization, including generative models for trustworthy AI in the clinic. He has been awarded the prestigious postdoctoral fellowship Juan de la Cierva (2022) and has published in top journals and conferences in AI and medical imaging.
