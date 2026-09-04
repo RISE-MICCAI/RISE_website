@@ -16,6 +16,9 @@ main:
   - name: News
     url: post
     weight: 30
+  - name: Ambassadors
+    url: ambassador-program
+    weight: 35
   - name: MICCAI Workshop
     url: https://mirasol.rise-miccai.org/
   # - name: MBZUAI Winter School

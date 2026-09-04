@@ -3,13 +3,174 @@
   text-align: center;
 }
 
-// Center the CTA shortcode button
+// Keep menu labels on a single line so the navbar reads as one even row
+#navbar-main .navbar-nav .nav-link {
+  white-space: nowrap;
+}
+
+// Center the CTA shortcode button. The theme offsets the group with negative side
+// margins to keep it flush left, which is unnecessary once centered and pushes the
+// group past the container edge.
 .cta-group {
   justify-content: center;
+  padding-left: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .powered-by:not(.copyright-license-text):not(.footer-license-icons) {
   display: none;
+}
+
+// Ambassador Program: key dates and the paired Author/Ambassador guides.
+// Borders use a neutral grey so they hold up in both the day and night themes.
+// Page header on a single line: the title bookended by the two programme marks.
+.program-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1.75rem;
+  margin-bottom: 2rem;
+
+  h1 {
+    margin: 0;
+  }
+
+  // Matched on width, not height: as bookends they need an equal horizontal
+  // footprint so the title lands on the centre of the page.
+  img {
+    width: 106px;
+    height: auto;
+  }
+
+  // The marks are dark navy, so give them a light plate on the night theme.
+  .dark & img {
+    background: #fff;
+    padding: 0.3rem 0.45rem;
+    border-radius: 0.3rem;
+  }
+}
+
+// Too narrow for one row: pair the marks on their own line above the title.
+@media (max-width: 767px) {
+  .program-header {
+    gap: 1rem 2rem;
+
+    img {
+      width: 88px;
+      order: 1;
+    }
+
+    h1 {
+      flex: 0 0 100%;
+      order: 2;
+    }
+  }
+}
+
+// Eligibility caveat sitting under the two role cards. Tinted rather than greyed
+// out: ruling yourself out early is worth more than the cards it sits beneath.
+.program-note {
+  max-width: 42rem;
+  margin: 0.5rem auto 0;
+  padding: 0.9rem 1.5rem;
+  text-align: center;
+  font-size: 0.95rem;
+  border: 1px solid rgba(180, 83, 9, 0.35);
+  border-radius: 0.5rem;
+  // Translucent so the tint sits correctly on either theme background.
+  background: rgba(217, 119, 6, 0.09);
+}
+
+.program-note-flag {
+  color: #b45309;
+
+  .dark & {
+    color: #fbbf24;
+  }
+}
+
+// Dates meet on a centred spine: the date right-aligned, the milestone left-aligned.
+.program-dates {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.program-date {
+  display: flex;
+  gap: 1.5rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}
+
+.program-date-when {
+  flex: 0 0 13rem;
+  text-align: right;
+  font-weight: 600;
+}
+
+.program-date-what {
+  flex: 1;
+  text-align: left;
+}
+
+.program-role {
+  height: 100%;
+  padding: 1.75rem;
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 0.5rem;
+  text-align: center;
+  // Column layout so the two Apply buttons line up regardless of list length.
+  display: flex;
+  flex-direction: column;
+
+  h3 {
+    margin-top: 0;
+  }
+
+  .program-role-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    margin-bottom: 0.35rem;
+  }
+
+  // Centre the list as a block while keeping the text itself left-aligned to read well.
+  ul:not(.cta-group) {
+    display: inline-block;
+    text-align: left;
+    padding-left: 1.1rem;
+    margin-bottom: 0;
+  }
+
+  .cta-group {
+    margin-top: auto;
+    padding-top: 1.5rem;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .program-date {
+    display: block;
+    text-align: center;
+  }
+
+  .program-date-when {
+    text-align: center;
+    margin-bottom: 0.15rem;
+  }
+
+  .program-date-what {
+    text-align: center;
+  }
 }
 
 .hero-lead {

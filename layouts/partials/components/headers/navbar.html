@@ -18,11 +18,11 @@
 {{ $miccai_logo := site.Params.header.navbar.miccai_logo | default "" }}
 
 <header>
-  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <nav class="navbar navbar-expand-xl navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
 
       {{if $show_logo}}
-      <div class="d-none d-lg-inline-flex align-items-center">
+      <div class="d-none d-xl-inline-flex align-items-center">
         {{ if $miccai_url }}
         <a href="{{ $miccai_url }}" target="_blank" rel="noopener" class="mr-2" title="MICCAI Society" aria-label="MICCAI Society">
           {{- if $miccai_logo -}}
@@ -52,7 +52,7 @@
       {{ end }}
 
       {{if $show_logo}}
-      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none align-items-center">
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-xl-none align-items-center">
         {{ if $miccai_url }}
         <a href="{{ $miccai_url }}" target="_blank" rel="noopener" class="mr-2" title="MICCAI Society" aria-label="MICCAI Society">
           {{- if $miccai_logo -}}
@@ -171,7 +171,7 @@
         {{ range where (where (where site.Pages "Section" "authors") ".Params.superuser" true) ".Params.social" "!=" nil }}
           {{ range where .Params.social ".display.header" true }}
             {{ $social_link := partial "functions/get_social_link" . }}
-            <li class="nav-item d-none d-lg-inline-flex">
+            <li class="nav-item d-none d-xl-inline-flex">
               <a class="nav-link" href="{{ $social_link.link | safeURL }}"{{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="bottom" title="{{.}}"{{ end }} {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.aria_label }}">
                 <i class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}" aria-hidden="true"></i>
               </a>
@@ -215,7 +215,7 @@
              aria-haspopup="true" aria-label="{{ i18n "languages" | default "Languages" }}">
             <i class="fas fa-globe mr-1" aria-hidden="true"></i>
             {{- if $show_current_language -}}
-              <span class="d-none d-lg-inline">{{ index site.Data.i18n.languages .Lang }}</span>
+              <span class="d-none d-xl-inline">{{ index site.Data.i18n.languages .Lang }}</span>
             {{- end -}}
           </a>
           <div class="dropdown-menu">
