@@ -69,6 +69,27 @@
   }
 }
 
+// Show deadline extensions honestly: struck-through previous date, current date beside it.
+.program-deadline {
+  margin-bottom: 0.35rem;
+
+  del {
+    opacity: 0.55;
+  }
+}
+
+.program-updated {
+  margin-bottom: 0;
+  font-size: 0.85rem;
+  opacity: 0.65;
+}
+
+.program-date-when del {
+  font-weight: 400;
+  opacity: 0.55;
+  margin-right: 0.35rem;
+}
+
 // Eligibility caveat sitting under the two role cards. Tinted rather than greyed
 // out: ruling yourself out early is worth more than the cards it sits beneath.
 .program-note {

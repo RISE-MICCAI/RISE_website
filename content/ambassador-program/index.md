@@ -14,11 +14,14 @@ sections:
           <img src="/images/miccai2026-logo.png" alt="MICCAI 2026, Strasbourg, France">
         </div>
 
+        Due to visa barriers, we urgently need more Ambassadors.
+
         Authors of accepted **MICCAI 2026 workshop or challenge papers** who cannot travel to
         Strasbourg because of **funding or visa barriers** are paired with attendees who present
         their posters on their behalf.
 
-        **Applications close 11 September 2026.**
+        <p class="program-deadline"><strong>Applications close <del>11 September 2026</del> 13 September 2026.</strong></p>
+        <p class="program-updated">Updated 10 September 2026.</p>
     design:
       columns: '1'
       css_class: text-center
@@ -47,7 +50,6 @@ sections:
               <h3>Ambassador</h3>
               <ul>
                 <li>You will attend the MICCAI 2026 satellite events in person.</li>
-                <li>You are a graduate student, resident, postdoctoral fellow, or early-career researcher.</li>
                 <li>You can meet the Author online between 15 and 26 September.</li>
                 <li>You can present one poster on the event day.</li>
               </ul>
@@ -63,15 +65,15 @@ sections:
   - block: markdown
     content:
       title: Key Dates
-      subtitle: All dates are 2026
+      subtitle: All dates are 2026 · Updated 10 September 2026
       text: |
         <div class="program-dates">
           <div class="program-date">
-            <div class="program-date-when">11 September</div>
+            <div class="program-date-when"><del>11 September</del> 13 September</div>
             <div class="program-date-what">Applications close</div>
           </div>
           <div class="program-date">
-            <div class="program-date-when">13 September</div>
+            <div class="program-date-when"><del>13 September</del> 14 September</div>
             <div class="program-date-what">Matches announced</div>
           </div>
           <div class="program-date">
